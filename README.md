@@ -27,19 +27,19 @@ UTILIZACIÓN DE VOYANT-Tools:
 ![image](https://github.com/user-attachments/assets/9555e580-8393-4799-b4a4-3fcf1b86491b)
 ![image](https://github.com/user-attachments/assets/10c568ea-eb54-4201-abe1-d4f4376eccf0)
 
-han
-ya
-desde
-tan
-me
-fue
-ni 
-sólo
-pues
-otra
-son 
-así
-e
+han  
+ya  
+desde  
+tan  
+me  
+fue  
+ni   
+sólo  
+pues  
+otra  
+son   
+así  
+e  
 
 
 Algunos puntos importantes a los que llegamos en el análisis realizado hasta el momento…
