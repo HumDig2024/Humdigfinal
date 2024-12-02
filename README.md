@@ -14,3 +14,8 @@ UTILIZACIÓN DE VOYANT-Tools:
 ![Imagen1](https://github.com/user-attachments/assets/345cd636-0536-4172-8493-1f6ba0e90bd4)
 
 
+•	Tendencia del término “civilización”:
+
+![Imagen2](https://github.com/user-attachments/assets/d6dd4e42-4cb5-4dfa-aee8-406f665227f0)
+
+![3](https://github.com/user-attachments/assets/27117f4c-611b-4530-9b52-0df6469741c1)
