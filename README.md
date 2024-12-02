@@ -78,6 +78,7 @@ RECOGITO:
 Anotaciones colaborativas realizadas en la “Advertencia del autor” que contiene la obra:  
 
 https://recogito.pelagios.org/document/pfjijj61tyyyxk/part/1/edit  
+
 REFERENCIAS BIBLIOGRÁFICAS:  
 
 •	Sarmiento, D. F. (2018). Facundo, o, Civilización y barbarie. Buenos Aires: Biblioteca del Congreso de la Nación (Pensamiento del Bicentenario).  
