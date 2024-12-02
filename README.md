@@ -19,3 +19,7 @@ UTILIZACIÓN DE VOYANT-Tools:
 ![Imagen2](https://github.com/user-attachments/assets/d6dd4e42-4cb5-4dfa-aee8-406f665227f0)
 
 ![3](https://github.com/user-attachments/assets/27117f4c-611b-4530-9b52-0df6469741c1)
+
+•	Contexto - ocurrencia de la palabra “civilización” con un poco de contexto circundante:
+![image](https://github.com/user-attachments/assets/126b7902-f31c-4fe4-8c57-757adc0f2927)
+![image](https://github.com/user-attachments/assets/7a5d5381-bcfe-4fba-a0b5-f0161c8eb61f)
