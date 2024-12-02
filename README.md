@@ -47,7 +47,7 @@ En Facundo de Domingo Faustino Sarmiento, el término “civilización” es cen
  
 En el texto, Sarmiento establece una dicotomía entre la cultura urbana, representada por ciudades como Buenos Aires, y la vida rural, asociada a los caudillos, el desierto y el gaucho. Esta oposición no solo tiene un carácter geográfico, sino que también refleja un conflicto ideológico y cultural sobre el destino de la nación: la civilización simboliza el futuro deseable y la integración al mundo moderno.  
 
-Sarmiento utiliza el concepto de civilización como una herramienta para argumentar la necesidad de transformar la estructura social y política de Argentina, enfrentando la influencia de los caudillos locales y las costumbres tradicionales que, según él, perpetuaban el atraso. En ese sentido, la obra es un retrato de Juan Facundo Quiroga como un manifiesto político y cultural que busca impulsar la modernización y el avance de la nación mediante la adopción de modelos occidentales.
+Sarmiento utiliza el concepto de civilización como una herramienta para argumentar la necesidad de transformar la estructura social y política de Argentina, enfrentando la influencia de los caudillos locales y las costumbres tradicionales que, según él, perpetuaban el atraso. En ese sentido, la obra es un retrato de Juan Facundo Quiroga como un manifiesto político y cultural que busca impulsar la modernización y el avance de la nación mediante la adopción de modelos occidentales.  
 En Facundo, el término “civilización” tiene un rol central que Sarmiento desarrolla de diversas maneras a lo largo de la obra:  
 
 	Relación con las ciudades y el progreso:  
